@@ -1,0 +1,15 @@
+Employee Name: Samiur Rahman
+Department: CSE
+Salary: 23750
+ID: 1831
+
+Employee Name: Soaib Ahmed
+Department: CSE
+Salary: 11500
+ID: 1813
+
+Employee Name: Dihan Jubair
+Department: CSE
+Salary: 25000
+ID: 1522
+

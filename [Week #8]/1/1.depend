@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542904363 source:f:\nsu\cse115.6l assignments\[week #8]\1\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+

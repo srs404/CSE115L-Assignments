@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540305016 source:f:\nsu\nsu cse115.6l assignments\[week #3]\7(1)\main.c
+	<stdio.h>
+
+1540305381 source:f:\nsu\nsu cse115.6l assignments\[week #3]\11\main.c
+	<stdio.h>
+	<stdlib.h>
+
