@@ -1,6 +1,10 @@
 # CSE115L-Assignments
 Assignments for CSE115 Lab of North South University. 
 
+   --+ Course: CSE115
+   
+   --+ Section: 6
+   
    --+ Faculty: Sharmina Zaman (SAM)
 
    --+ Lab Instrutor: Ashik Mostafa Alvi
